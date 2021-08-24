@@ -1,0 +1,10 @@
+Type,Car Id,Make,Model,Rate,Available,Child Seat,Chauffeur
+Saloon,S101,Toyota,Altis,80,Yes,0,
+Saloon,S102,Honda,Civic,90,Yes,0,
+Saloon,S103,Toyota,Camry,150,Yes,0,
+Saloon,S104,Honda,Accord,160,Yes,0,
+Saloon,S105,BMW,520,200,Yes,0,
+Saloon,S106,BMW,730,250,Yes,0,
+MPV,M201,Honda,Odyssey ,200,Yes,,No
+MPV,M202,Nissan,Elgrand,250,Yes,,No
+MPV,M203,Toyota,Alphard,300,Yes,,No
